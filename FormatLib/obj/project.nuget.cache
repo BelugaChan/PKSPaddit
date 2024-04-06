@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OtqFqQP704eRn37Eg73+80YCII/o8384gghODPaJsy32TjGOBrzNrq5p5cW1HPZeHZaptfiDBP3qXAS1lAGY7A==",
+  "success": true,
+  "projectFilePath": "D:\\uFiler\\dzeranovStepikCourseC#\\FormatLib\\FormatLib\\FormatLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

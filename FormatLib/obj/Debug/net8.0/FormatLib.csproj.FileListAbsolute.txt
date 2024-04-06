@@ -1,0 +1,12 @@
+D:\uFiler\dzeranovStepikCourseC#\FormatLib\FormatLib\bin\Debug\net8.0\FormatLib.deps.json
+D:\uFiler\dzeranovStepikCourseC#\FormatLib\FormatLib\bin\Debug\net8.0\FormatLib.dll
+D:\uFiler\dzeranovStepikCourseC#\FormatLib\FormatLib\bin\Debug\net8.0\FormatLib.pdb
+D:\uFiler\dzeranovStepikCourseC#\FormatLib\FormatLib\obj\Debug\net8.0\FormatLib.csproj.AssemblyReference.cache
+D:\uFiler\dzeranovStepikCourseC#\FormatLib\FormatLib\obj\Debug\net8.0\FormatLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\uFiler\dzeranovStepikCourseC#\FormatLib\FormatLib\obj\Debug\net8.0\FormatLib.AssemblyInfoInputs.cache
+D:\uFiler\dzeranovStepikCourseC#\FormatLib\FormatLib\obj\Debug\net8.0\FormatLib.AssemblyInfo.cs
+D:\uFiler\dzeranovStepikCourseC#\FormatLib\FormatLib\obj\Debug\net8.0\FormatLib.csproj.CoreCompileInputs.cache
+D:\uFiler\dzeranovStepikCourseC#\FormatLib\FormatLib\obj\Debug\net8.0\FormatLib.dll
+D:\uFiler\dzeranovStepikCourseC#\FormatLib\FormatLib\obj\Debug\net8.0\refint\FormatLib.dll
+D:\uFiler\dzeranovStepikCourseC#\FormatLib\FormatLib\obj\Debug\net8.0\FormatLib.pdb
+D:\uFiler\dzeranovStepikCourseC#\FormatLib\FormatLib\obj\Debug\net8.0\ref\FormatLib.dll
